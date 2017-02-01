@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="FIRST_RB" type="id">first_rb</item>
+    <item name="FIRST_MEAL" type="id">first_meal</item>
+    <item name="SECOND_MEAL" type="id">second_meal</item>
+    <item name="THIRD_MEAL" type="id">third_meal</item>
+    <item name="FOURTH_MEAL" type="id">fourth_meal</item>
+</resources>
